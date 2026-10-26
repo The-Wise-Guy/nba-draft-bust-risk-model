@@ -1,4 +1,6 @@
-# Draft Bust-Risk Model — Database
+# Draft Bust-Risk Model
+
+A model that scores NBA draft prospects on bust risk instead of pure talent, applying risk-management thinking (quantifying downside probability) to player evaluation.
 
 SQLite database for the NBA draft prospect bust-risk project.
 
